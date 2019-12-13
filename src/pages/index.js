@@ -26,6 +26,12 @@ const IndexPage = () => (
         <div className="image"></div>
       </div>
     </div>
+    <div className="nameWrapper">
+      <h2> Rajitha Front-End Devloper </h2>
+    </div>
+    <div className="nameWrapper">
+      <h2> Rajitha Front-End Devloper </h2>
+    </div>
     {/* <Link to="/page-2/">Go to page 2</Link> */}
   </Layout>
 )
